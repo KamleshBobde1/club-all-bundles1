@@ -1,0 +1,6 @@
+code: entando-strapi-content-template-widget-bundle
+titles:
+  en: Strapi Content Template Widget
+  it: Widget del modello di contenuto di Strapi
+group: free
+customUiPath: strapi-content-template-widget.ftl
