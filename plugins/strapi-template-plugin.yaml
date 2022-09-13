@@ -1,4 +1,4 @@
-image: kamleshbobde/all-bundle-test:0.0.1
+image: kamleshbobde/all-bundle-test:0.0.3
 dbms: none
 ingressPath: "/entando-template-api"
 healthCheckPath: "/actuator/health"
