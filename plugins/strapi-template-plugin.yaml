@@ -1,7 +1,6 @@
-image: kamleshbobde/all-bundle-test:0.0.6
+image: kamleshbobde/all-bundle-test:0.0.7
 dbms: none
 ingressPath: "/entando-template-api"
 healthCheckPath: "/actuator/health"
 roles:
-  - "et-first-role"
-  - "et-second-role"
+  - "admin"
